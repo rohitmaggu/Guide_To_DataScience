@@ -1,0 +1,2 @@
+There are 50 startups in different countries with different spends on various departments like Administration,
+Marketig and R&D.Build a model so as to maximize the profit and thus know in which department to spend more money.

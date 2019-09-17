@@ -1,0 +1,2 @@
+Create a Bluffing Detector for the HR department,which can calculate the salary an employee should get given it's position 
+and level in the previous company.
