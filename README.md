@@ -1,2 +1,3 @@
 # Machine_Learning_Model
-Contains implementation of various ML and Deep Learning Algorithms.
+This repository contains various problems faced in various sectors like bussiness, health etc which have been solved using various Machine Learning and Deep Learning Algorithms.It aso contains data preprocessing folder.Each problem contains Problemstatement file , dataset and a python file with model trained on the dataset.
+
